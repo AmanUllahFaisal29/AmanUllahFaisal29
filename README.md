@@ -25,7 +25,6 @@ I'm currently pursuing my Bachelor's in Computer Science, honing my skills in UI
 
 ## Interests and Extracurricular Activities
 - Active member of the Design Team – Google Student Developer’s Club.
-- Teaching Assistant and Mentor for the TCF-ADP Program.
 
 ## Get in Touch
 - 📫 Email: [a.faisal.22944@khi.iba.edu.pk](mailto:a.faisal.22944@khi.iba.edu.pk)
