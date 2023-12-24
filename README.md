@@ -8,7 +8,7 @@ I'm currently pursuing my Bachelor's in Computer Science, honing my skills in UI
 ## My Projects
 - **SehatGhar Mobile Application**: A UX Case Study where I focused on creating a user-centric UI for busy and aged individuals to order medicals at their doorstep.
 - **Hadyatussalam Web Application**: A UI-based project where I designed an entirely unique web application to improve productivity in Muslim’s daily life.
-- **Mindmingle**: A Card Flipping iOS game showcasing my creativity and understanding of engaging game design.
+- **Mindmingle iOS Application**: A Card Flipping iOS game showcasing my creativity and understanding of engaging game design.
 
 ## Professional Experience
 - Technical Lead - UX Design for Google Developer Student Clubs at IBA: Currently leading the UX design initiatives, focusing on user interface prototyping, user experience design, and mastering tools like Figjam and Figma.
