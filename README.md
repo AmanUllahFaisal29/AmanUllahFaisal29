@@ -21,6 +21,7 @@ I'm currently pursuing my Bachelor's in Computer Science, honing my skills in UI
 
 ## Education
 - Bachelor's in Computer Science (Expected 2024) from the Institute Of Business Administration (IBA-Karachi)
+- A Level (Engineering) from Nixor College
 
 ## Interests and Extracurricular Activities
 - Active member of the Design Team – Google Student Developer’s Club.
