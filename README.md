@@ -11,9 +11,9 @@ I'm currently pursuing my Bachelor's in Computer Science, honing my skills in UI
 - **MindMingle iOS Application**: A Card Flipping Game showcasing my creativity and understanding of engaging game design.
 
 ## Professional Experience
-- Technical Lead - UX Design for Google Developer Student Clubs at IBA: Currently leading the UX design initiatives, focusing on user interface prototyping, user experience design, and mastering tools like Figjam and Figma.
-- Freelancer UI/UX Designer at Upwork, where I leverage my skills to offer freelance services, working with diverse clients to create engaging, user-friendly designs.
-- Game Designer Intern at Mindstorm Studios, where I crafted visually appealing level & character designs for our game.
+- Technical Lead - UX Design @ Google Developer Student Clubs at IBA, where I Currently lead the UX design initiatives and teach on user interface prototyping, user experience design, and mastering tools like Figjam and Figma.
+- Freelancer UI/UX Designer @ Upwork, where I leverage my skills to offer freelance services, working with diverse clients to create engaging, user-friendly designs.
+- Game Designer Intern @ Mindstorm Studios, where I crafted visually appealing level & character designs for our game.
 
 ## Skills
 - Proficient in Figma, Figjam and Illustrator.
