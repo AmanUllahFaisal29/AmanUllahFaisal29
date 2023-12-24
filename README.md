@@ -27,7 +27,7 @@ I'm currently pursuing my Bachelor's in Computer Science, honing my skills in UI
 - Active member of the Design Team – Google Student Developer’s Club.
 
 ## Get in Touch
-- 📫 Email: [a.faisal.22944@khi.iba.edu.pk](mailto:a.faisal.22944@khi.iba.edu.pk)
+- 📫 Email: [aman.faisal@nixorcollege.edu.pk](mailto:aman.faisal@nixorcollege.edu.pk)
 - 🌐 LinkedIn: [www.linkedin.com/in/amanullahfaisal](https://www.linkedin.com/in/amanullahfaisal)
 - 🎨 Behance: [www.behance.net/TheGraphicalExpert](https://www.behance.net/TheGraphicalExpert)
 
