@@ -29,7 +29,7 @@ I'm currently pursuing my Bachelor's in Computer Science, honing my skills in UI
 ## Get in Touch
 - 📫 Email: [a.faisal.22944@khi.iba.edu.pk](mailto:a.faisal.22944@khi.iba.edu.pk)
 - 🌐 LinkedIn: [www.linkedin.com/in/amanullahfaisal](https://www.linkedin.com/in/amanullahfaisal)
-- 🎨 Behance: 
+- 🎨 Behance: [www.behance.net/TheGraphicalExpert](https://www.behance.net/TheGraphicalExpert)
 
 Feel free to connect with me for collaborations, project discussions, or just to say hi!
 
