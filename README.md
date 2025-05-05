@@ -1,6 +1,6 @@
 # 👋 Assalam U Alaikum, I'm Aman Ullah Faisal
 
-I am an aspiring UI/UX Designer with a passion for creating user-centric designs. Welcome to my GitHub profile!
+I am Product Designer Designer with a passion for creating user-centric designs. Welcome to my GitHub profile!
 
 ## About Me
 I'm currently pursuing my Bachelor's in Computer Science, honing my skills in UI/UX design. With a keen eye for detail, I aim to make applications both visually appealing and functionally effective.
